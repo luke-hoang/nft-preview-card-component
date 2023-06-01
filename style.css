@@ -11,6 +11,10 @@ figure {
 
 }
 
+p {
+  font-size: 18px;
+}
+
 .container {
   display: flex;
   justify-content: center;
